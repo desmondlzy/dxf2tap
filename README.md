@@ -1,3 +1,5 @@
+![teaser image](./teaser.jpg)
+
 # dxf2tap
 
 A small and quick code generator for turning dxf drawings into the gcode files (.tap).
