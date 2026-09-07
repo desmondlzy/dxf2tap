@@ -1,0 +1,14 @@
+# The sample drawing is part of the release; the parent repo ignores *.dxf.
+!data/*.dxf
+
+# Outputs written by trying the tool from here.
+/output/
+/*.tap
+/*.png
+/*.svg
+
+.venv/
+__pycache__/
+*.pyc
+dist/
+.DS_Store
